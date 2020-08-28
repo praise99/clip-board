@@ -1,0 +1,185 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.img-logo{
+    background-image: url(../images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    height: 270px;
+}
+.logo-img{
+    margin: 110px 250px 30px 259px;
+}
+.head-content{
+    text-align:center ;
+    
+}
+.head-title{
+    margin-top:-2px ;
+    font-size: 35px;
+}
+.head-desc{
+    font-size: 12px;
+    margin-top:-2px ;
+    color: hsl(210, 10%, 33%);
+}
+.btn-first{
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    width: 160px;
+    padding: 12px;
+    border-radius: 20px;
+    border: hsl(171, 66%, 44%);
+    margin-right:20px ;
+    
+}
+.btn-logo{
+    margin-top:29px ;
+}
+.btn-second{
+    background-color: hsl(233, 100%, 69%);
+    color: white;
+    width: 160px;
+    padding: 12px;
+    border-radius: 20px;
+    border: hsl(233, 100%, 69%);
+
+}
+.sect-B{
+    text-align: center;
+    margin-top:70px ;
+}
+.sectB-desc{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(210, 10%, 33%);
+}
+.sectC{
+    margin-top:95px ;
+    display: flex;
+    
+}
+.sectC-i{
+    margin-left:-29px ;
+}
+li{
+    list-style: none;
+}
+.sectC-content{
+    margin-left:80px ;
+    margin-top:60px ;
+}
+.sectC-title{
+    font-size: 24px;
+    color: hsl(210, 10%, 33%);
+
+}
+.sectC-desc{
+    font-size: 16px;
+    color: hsl(210, 10%, 33%);
+    margin-top:-15px ;
+}
+.sectD{
+    margin-top:120px ;
+}
+.sectD-content{
+    text-align: center;
+}
+.sectD-title{
+    color: hsl(210, 10%, 33%);
+    font-size: 35px;
+}
+.sectD-desc{
+    color: hsl(210, 10%, 33%);
+    margin-top:-9px ;
+}
+.sectE{
+    text-align: center;
+    margin-top:60px ;
+}
+.sectF{
+    text-align: center;
+    margin-top:40px ;
+}
+.sectF-title{
+    color: hsl(210, 10%, 33%);
+    font-size: 35px;
+}
+.sectF-desc{
+    color: hsl(210, 10%, 33%);
+}
+.sectG{
+    display: flex;
+    text-align: center;
+    margin-top:50px ;
+    margin-left:40px ;
+    
+}
+.sectG-content{
+    padding: 20px;
+    color: hsl(210, 10%, 33%);
+}
+.sectG-title{
+    margin-top:14px ;
+}
+.sectH{
+    display: flex;
+    margin-top:50px ;
+    margin-left:40px ;
+}
+.sectH-img{
+    padding: 56px;
+}
+.sectI-content{
+    text-align:center ;
+    margin-top:40px ;
+    
+}
+
+.sectI-title{
+    margin-top:-2px ;
+    font-size: 35px;
+    color: hsl(210, 10%, 33%)
+}
+.sectI-desc{
+    font-size: 18px;
+    margin-top:-2px ;
+    color: hsl(210, 10%, 33%);
+}
+.sectJ{
+    background-color: rgb(233, 230, 230);
+    width: 100%;
+    height: auto;
+}
+.sectJ-content{
+    display: flex;
+    margin-top:120px ;
+    margin-left:95px ;
+}
+.btn-first:hover{
+    color:white;
+    background-color: hsl(210, 10%, 33%);
+}
+.btn-second:hover{
+    color:white;
+    background-color: hsl(210, 10%, 33%);
+}
+.sectJ-c{
+    padding: 15px;
+}
+.sectJ-d{
+    margin-left:300px ;
+}
+.foot-image{
+    display: flex;
+    margin-top:50px ;
+
+}
+.foot2{
+    padding: 8px;
+}
+.foot3{
+    padding: 8px;
+}
