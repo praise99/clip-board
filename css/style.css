@@ -62,14 +62,19 @@ body{
     
 }
 .sectC-i{
-    margin-left:-29px ;
+    margin-left:0px ;
+}
+.sectC-img{
+    width: 60%;
+    margin-left:120px ;
+
 }
 li{
     list-style: none;
 }
 .sectC-content{
-    margin-left:80px ;
-    margin-top:60px ;
+    margin-left:-150px ;
+    margin-top:0px ;
 }
 .sectC-title{
     font-size: 24px;
