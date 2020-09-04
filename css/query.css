@@ -141,4 +141,135 @@
         margin-left: 65px;
     }
 }
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+    .sectH{
+        flex-direction: column;
+    }
+    .sectG{
+        flex-direction: column;
+    }
+    .sectj-content{
+        flex-direction: column;
+    }
+    .sectE-img{
+        width: 70%;
+    }
+    .sectJ-content{
+        flex-direction: column;
+    }
+    .sectC{
+        flex-direction: column;
+    }
+    .sectA{
+        overflow-x:hidden;
+    }
 
+    .sectB{
+        overflow-x:hidden;
+        margin-top: 170px;
+    }
+    .sectC{
+        overflow-x:hidden;
+    }
+    .sectD{
+        overflow-x:hidden;
+    }
+    .sectE{
+        overflow-x:hidden;
+    }
+    .sectF{
+        overflow-x:hidden;
+    }
+    .sectG{
+        overflow-x:hidden;
+        
+    }
+    .sectH{
+        overflow-x:hidden;
+        text-align: center;
+        
+    }
+    .sectI{
+        overflow-x:hidden;
+    }
+    .sectJ{
+        overflow-x:hidden;
+    }
+    .logo-img {
+        margin: 110px 250px 30px 240px;
+    }
+    .head-desc {
+        font-size: 32px;
+        padding: 0px 40px;
+    }
+    .btn-logo {
+        margin-top: 29px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 290px;
+    }
+    .btn-first {
+        width: 350px;
+        padding: 19px;
+        margin-left: -90px;
+        margin-bottom: 20px;
+    }
+    .btn-second {
+        width: 350px;
+        padding: 19px;
+        margin-left: -90px;
+    }
+    .sectB-title{
+        font-display: 40px;
+    }
+    .sectB-desc {
+        font-size: 25px;
+        padding: 0px 90px;
+    }
+    .sectC-img {
+        margin-left: 160px;
+    }
+    .sectC-content {
+        margin-left: 0px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .sectD-title {
+        font-size: 40px;
+    }
+    .sectD-desc {
+        padding: 0px 90px;
+        font-size: 25px;
+    }
+    .sectF-title {
+        font-size: 40px;
+    }
+    .sectF-desc {
+        font-size: 20px;
+    }
+    .sectI-title {
+        font-size: 45px;
+    }
+    .sectJ {
+        margin-top: 60px;
+    }
+    .sectJ-content {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .foot3 {
+        margin-left: -50px;
+    }
+    .top{
+        margin-top:-70px ;
+    }
+    .top3{
+        margin-top:-70px ;
+    }
+    .foot2 {
+        padding: 20px;
+    }
+    .sectJ-d {
+        margin-left: 280px;
+    }
+}
